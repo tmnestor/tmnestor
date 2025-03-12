@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmnestor
 - 👀 I’m interested in all things related to Data Science and Machine Learning
-- 🌱 I’m currently working on embedding space modelling applications for an Australian Government Agency.
+- 🌱 I’m currently working on applications of Large Language Models for an Australian Government Agency.
 - 💞️ I’m looking to collaborate on machine learning projects using the pytorch framework
 - 📫 How to reach me tod.m.nestor@gmail.com
 
